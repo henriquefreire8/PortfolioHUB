@@ -44,4 +44,4 @@ LinkedIn:
 https://www.linkedin.com/in/henrique-cysne-940552398/
 
 ## Autor
-Henriq
+Henrique Cysne
