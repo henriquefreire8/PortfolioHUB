@@ -1,9 +1,12 @@
-# Henrique Freire
+# Bootcamp
 
-Olá! Seja bem-vindo ao meu portfólio acadêmico e pessoal no GitHub.
+
+Olá! eu sou o Henrique 
 
 ## Sobre mim
-Sou estudante da área de tecnologia e programação, buscando desenvolver habilidades em desenvolvimento web, lógica de programação, versionamento com Git e criação de projetos acadêmicos.
+Sou estudante de Engenharia de Software no UniCEUB, com grande interesse na área de tecnologia e desenvolvimento de sistemas. Tenho formação como Assistente de Tecnologia da Informação, onde adquiri conhecimentos em informática e suporte básico.
+
+Estou em busca de oportunidades para desenvolver experiência na área de tecnologia e contribuir com aprendizado, dedicação e trabalho em equipe.
 
 ## Objetivo deste repositório
 Este repositório foi criado para armazenar projetos, exercícios, atividades acadêmicas e estudos realizados durante minha trajetória na faculdade e nos estudos pessoais.
