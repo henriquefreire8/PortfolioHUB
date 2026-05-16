@@ -1,47 +1,97 @@
-# Bootcamp
+# Henrique Freire
 
+Olá! Seja bem-vindo ao meu portfólio acadêmico e pessoal.
 
-Olá! eu sou o Henrique 
+---
 
-## Sobre mim
-Sou estudante de Engenharia de Software no UniCEUB, com grande interesse na área de tecnologia e desenvolvimento de sistemas. Tenho formação como Assistente de Tecnologia da Informação, onde adquiri conhecimentos em informática e suporte básico.
+# Sobre Mim
 
-Estou em busca de oportunidades para desenvolver experiência na área de tecnologia e contribuir com aprendizado, dedicação e trabalho em equipe.
+Sou estudante da área de tecnologia e programação, desenvolvendo habilidades em:
 
-## Objetivo deste repositório
-Este repositório foi criado para armazenar projetos, exercícios, atividades acadêmicas e estudos realizados durante minha trajetória na faculdade e nos estudos pessoais.
+- Lógica de programação
+- Desenvolvimento Web
+- Git e GitHub
+- Python
+- Banco de Dados
 
-## O que você encontrará aqui
-- Projetos acadêmicos;
-- Projetos pessoais;
-- Exercícios de programação;
-- Estudos sobre Git e GitHub;
-- Desenvolvimento web com HTML e CSS;
-- Documentações e atividades.
+---
 
-## Tecnologias utilizadas
+# O que tem aqui
+
+📁 projetos-academicos  
+Projetos desenvolvidos na faculdade.
+
+📁 projetos-pessoais  
+Projetos criados para estudo e prática.
+
+📁 documentacao  
+Anotações, atividades e documentações.
+
+📁 site  
+Página desenvolvida para o GitHub Pages.
+
+---
+
+# PortfolioHUB
+
+Meu site portfólio pessoal, desenvolvido do zero com HTML, CSS e JavaScript puro - sem frameworks. Foi meu primeiro projeto completo publicado na web
+
+## Banco de Dados
+Projeto acadêmico envolvendo modelagem e conceitos de banco de dados.
+
+### Tecnologias aplicadas
+- SQL
+- MySQL
+- Modelagem DER
+
+### Status
+Em Andamento
+
+---
+
+## Calculadora Web
+Projeto desenvolvido utilizando HTML, CSS e JavaScript.
+
+### Tecnologias aplicadas
 - HTML
 - CSS
-- Git
-- GitHub
-- Python
+- JavaScript
 
-## Projetos em destaque
-### Calculadora
-Projeto desenvolvido para praticar lógica de programação.
+### Status
+✅ Publicado
 
-### Site Acadêmico
-Página web criada utilizando HTML e CSS.
+---
 
-### Exercícios Python
-Exercícios utilizando estruturas condicionais e lógica de programação.
+# Certificações
 
-## Contato
-GitHub:
-https://github.com/henriquefreire8
+## SENAC
+- Introdução à Programação
+- Lógica de Programação
+- Informática Básica
 
-LinkedIn:
+---
+
+# Formação
+
+🎓 Engenharia / Tecnologia  
+📚 Estudante de Engenharia de Software
+
+---
+
+# Meu Site
+
+🌐 GitHub Pages:
+https://henriquefreire8.github.io/PortfolioHUB/
+
+---
+
+# Fale Comigo
+
+📧 Email:
+henriquecysne08@gmail.com
+
+💼 LinkedIn:
 https://www.linkedin.com/in/henrique-cysne-940552398/
 
-## Autor
-Henrique Cysne
+🐙 GitHub:
+https://github.com/henriquefreire8
